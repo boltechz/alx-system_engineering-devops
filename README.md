@@ -1,0 +1,1 @@
+This repository contains commands related to the BASH shell: Creating Scripts and Working with the shell.
