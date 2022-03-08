@@ -1,0 +1,24 @@
+total 60
+drwxr-xr-x 2 root root 4096 Mar  8 08:17 .
+drwxr-xr-x 6 root root  121 Mar  7 08:05 ..
+-rwxr--r-- 1 root root   32 Mar  7 08:17 0-hello_world
+-rw-r--r-- 1 root root    0 Mar  7 08:05 0-hello_world~
+-rwxr--r-- 1 root root   28 Mar  7 13:54 1-confused_smiley
+-rw-r--r-- 1 root root    0 Mar  7 13:50 1-confused_smiley~
+-rwxr--r-- 1 root root   28 Mar  7 14:21 2-hellofile
+-rw-r--r-- 1 root root    0 Mar  7 14:20 2-hellofile~
+-rwxr--r-- 1 root root   39 Mar  7 14:25 3-twofiles
+-rw-r--r-- 1 root root    0 Mar  7 14:24 3-twofiles~
+-rwxr--r-- 1 root root   33 Mar  7 14:31 4-lastlines
+-rw-r--r-- 1 root root    0 Mar  7 14:31 4-lastlines~
+-rwxr--r-- 1 root root   33 Mar  7 14:35 5-firstlines
+-rw-r--r-- 1 root root    0 Mar  7 14:34 5-firstlines~
+-rwxr--r-- 1 root root   40 Mar  7 21:47 6-third_line
+-rwxr--r-- 1 root root   26 Mar  7 21:25 6-third_line~
+-rwxr--r-- 1 root root   99 Mar  8 08:11 7-file
+-rwxr--r-- 1 root root   36 Mar  8 08:16 8-cwd_state
+-rw-r--r-- 1 root root   12 Mar  8 08:11 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root    3 Mar  7 08:18 .gitignore
+-rw-r--r-- 1 root root  800 Mar  7 21:22 iacta
+-rw-r--r-- 1 root root    0 Mar  8 08:17 ls_cwd_content
+-rw-r--r-- 1 root root   32 Mar  7 08:16 README.md
